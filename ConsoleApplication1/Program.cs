@@ -11,8 +11,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("ola mundo");
-            Console.WriteLine("bom dia ");
+            
             Console.WriteLine("como esta seu dia? ");
+            Console.WriteLine("tenha um bom dia ");
 
             Console.ReadLine();
         }
