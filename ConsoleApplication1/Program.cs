@@ -12,6 +12,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("ola mundo");
             Console.WriteLine("bom dia ");
+            Console.WriteLine("como esta seu dia? ");
+
+            Console.ReadLine();
         }
     }
 }
